@@ -1,11 +1,11 @@
 import javax.swing.*;
-
+/**
 public class dowhile {
     public static void main(String[] args){
     double dinero=0;
     double total=0;
     do{
-        String bolsa= JOptionPane.showInputDialog("Ingrese el dinero que tiene");
+
         try{
             dinero=Double.parseDouble(bolsa);
                 // no restar si el valor es
@@ -23,4 +23,4 @@ public class dowhile {
         }
 
 
-
+*/
